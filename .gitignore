@@ -1,0 +1,9 @@
+# misc
+node_modules
+
+# dist and build files
+dist
+build
+
+# rabbitmq files
+rabbitmq
